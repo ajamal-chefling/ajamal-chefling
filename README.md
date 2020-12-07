@@ -36,7 +36,7 @@ Hi, I'm [Ajamal Khan](https://ajamalkhan.com/), a Full Stack Developer 🚀 from
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajamal-chefling&show_icons=true&theme=react&count_private=true" alt="ajamal-chefling" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajamal-chefling&show_icons=true&theme=dark&count_private=true" alt="ajamal-chefling" />
 
 
 
