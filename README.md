@@ -11,8 +11,6 @@
 <br />
 
 Hi, I'm [Ajamal Khan](https://ajamalkhan.com/), a Full Stack Developer 🚀 from India, currently, I'm a Backend Engineer 🙍🏽‍♂️ [@gochefling](https://github.com/gochefling). Beside's programming, I enjoy eating food and traveling.
-
-  <img align="right" alt="GIF" src="https://github.com/ajamal-chefling/ajamal-chefling/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
