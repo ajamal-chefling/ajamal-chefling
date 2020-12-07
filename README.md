@@ -6,8 +6,9 @@
   <img align="left" alt="Ajamal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.github.com/khan-ajamal/">
-  <img align="left" alt="Ajamal's Personal GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Ajamal's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ajamal-chefling.ajamal-chefling)
 
 <br />
